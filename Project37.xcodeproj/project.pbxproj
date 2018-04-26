@@ -20,6 +20,31 @@
 		BF30DECB2091A69E003F1B33 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF30DECA2091A69E003F1B33 /* ExtensionDelegate.swift */; };
 		BF30DECD2091A69E003F1B33 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF30DECC2091A69E003F1B33 /* NotificationController.swift */; };
 		BF30DECF2091A69F003F1B33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF30DECE2091A69F003F1B33 /* Assets.xcassets */; };
+		BF30DEE02091BCE8003F1B33 /* CardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF30DEDF2091BCE8003F1B33 /* CardViewController.swift */; };
+		BF30DEF62091C510003F1B33 /* cardStar.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEE12091C50D003F1B33 /* cardStar.png */; };
+		BF30DEF72091C510003F1B33 /* particle@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEE22091C50D003F1B33 /* particle@3x.png */; };
+		BF30DEF82091C510003F1B33 /* cardCross@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEE32091C50D003F1B33 /* cardCross@3x.png */; };
+		BF30DEF92091C510003F1B33 /* cardLines@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEE42091C50E003F1B33 /* cardLines@3x.png */; };
+		BF30DEFA2091C510003F1B33 /* cardBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEE52091C50E003F1B33 /* cardBack@2x.png */; };
+		BF30DEFB2091C510003F1B33 /* cardStar@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEE62091C50E003F1B33 /* cardStar@3x.png */; };
+		BF30DEFC2091C510003F1B33 /* particle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEE72091C50E003F1B33 /* particle@2x.png */; };
+		BF30DEFD2091C510003F1B33 /* cardBack.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEE82091C50E003F1B33 /* cardBack.png */; };
+		BF30DEFE2091C510003F1B33 /* cardCross.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEE92091C50E003F1B33 /* cardCross.png */; };
+		BF30DEFF2091C510003F1B33 /* particle.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEEA2091C50E003F1B33 /* particle.png */; };
+		BF30DF002091C510003F1B33 /* cardCircle.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEEB2091C50F003F1B33 /* cardCircle.png */; };
+		BF30DF012091C510003F1B33 /* cardLines.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEEC2091C50F003F1B33 /* cardLines.png */; };
+		BF30DF022091C510003F1B33 /* cardCross@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEED2091C50F003F1B33 /* cardCross@2x.png */; };
+		BF30DF032091C510003F1B33 /* cardLines@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEEE2091C50F003F1B33 /* cardLines@2x.png */; };
+		BF30DF042091C510003F1B33 /* cardCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEEF2091C50F003F1B33 /* cardCircle@2x.png */; };
+		BF30DF052091C510003F1B33 /* cardCircle@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEF02091C50F003F1B33 /* cardCircle@3x.png */; };
+		BF30DF062091C510003F1B33 /* cardSquare.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEF12091C510003F1B33 /* cardSquare.png */; };
+		BF30DF072091C510003F1B33 /* cardSquare@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEF22091C510003F1B33 /* cardSquare@3x.png */; };
+		BF30DF082091C510003F1B33 /* cardBack@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEF32091C510003F1B33 /* cardBack@3x.png */; };
+		BF30DF092091C510003F1B33 /* cardSquare@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEF42091C510003F1B33 /* cardSquare@2x.png */; };
+		BF30DF0A2091C510003F1B33 /* cardStar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF30DEF52091C510003F1B33 /* cardStar@2x.png */; };
+		BF30DF0D2091C51A003F1B33 /* PhantomFromSpace.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF30DF0B2091C51A003F1B33 /* PhantomFromSpace.mp3 */; };
+		BF30DF0E2091C51A003F1B33 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF30DF0C2091C51A003F1B33 /* README.txt */; };
+		BF30DF10209290E3003F1B33 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF30DF0F209290E3003F1B33 /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +108,31 @@
 		BF30DECE2091A69F003F1B33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF30DED02091A69F003F1B33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BF30DED12091A69F003F1B33 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		BF30DEDF2091BCE8003F1B33 /* CardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewController.swift; sourceTree = "<group>"; };
+		BF30DEE12091C50D003F1B33 /* cardStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardStar.png; sourceTree = "<group>"; };
+		BF30DEE22091C50D003F1B33 /* particle@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "particle@3x.png"; sourceTree = "<group>"; };
+		BF30DEE32091C50D003F1B33 /* cardCross@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardCross@3x.png"; sourceTree = "<group>"; };
+		BF30DEE42091C50E003F1B33 /* cardLines@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardLines@3x.png"; sourceTree = "<group>"; };
+		BF30DEE52091C50E003F1B33 /* cardBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardBack@2x.png"; sourceTree = "<group>"; };
+		BF30DEE62091C50E003F1B33 /* cardStar@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardStar@3x.png"; sourceTree = "<group>"; };
+		BF30DEE72091C50E003F1B33 /* particle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "particle@2x.png"; sourceTree = "<group>"; };
+		BF30DEE82091C50E003F1B33 /* cardBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardBack.png; sourceTree = "<group>"; };
+		BF30DEE92091C50E003F1B33 /* cardCross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardCross.png; sourceTree = "<group>"; };
+		BF30DEEA2091C50E003F1B33 /* particle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = particle.png; sourceTree = "<group>"; };
+		BF30DEEB2091C50F003F1B33 /* cardCircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardCircle.png; sourceTree = "<group>"; };
+		BF30DEEC2091C50F003F1B33 /* cardLines.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardLines.png; sourceTree = "<group>"; };
+		BF30DEED2091C50F003F1B33 /* cardCross@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardCross@2x.png"; sourceTree = "<group>"; };
+		BF30DEEE2091C50F003F1B33 /* cardLines@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardLines@2x.png"; sourceTree = "<group>"; };
+		BF30DEEF2091C50F003F1B33 /* cardCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardCircle@2x.png"; sourceTree = "<group>"; };
+		BF30DEF02091C50F003F1B33 /* cardCircle@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardCircle@3x.png"; sourceTree = "<group>"; };
+		BF30DEF12091C510003F1B33 /* cardSquare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardSquare.png; sourceTree = "<group>"; };
+		BF30DEF22091C510003F1B33 /* cardSquare@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardSquare@3x.png"; sourceTree = "<group>"; };
+		BF30DEF32091C510003F1B33 /* cardBack@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardBack@3x.png"; sourceTree = "<group>"; };
+		BF30DEF42091C510003F1B33 /* cardSquare@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardSquare@2x.png"; sourceTree = "<group>"; };
+		BF30DEF52091C510003F1B33 /* cardStar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardStar@2x.png"; sourceTree = "<group>"; };
+		BF30DF0B2091C51A003F1B33 /* PhantomFromSpace.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = PhantomFromSpace.mp3; sourceTree = "<group>"; };
+		BF30DF0C2091C51A003F1B33 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		BF30DF0F209290E3003F1B33 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,10 +178,35 @@
 			children = (
 				BF30DEA52091A69C003F1B33 /* AppDelegate.swift */,
 				BF30DEA72091A69C003F1B33 /* ViewController.swift */,
+				BF30DEDF2091BCE8003F1B33 /* CardViewController.swift */,
+				BF30DF0F209290E3003F1B33 /* GradientView.swift */,
 				BF30DEA92091A69C003F1B33 /* Main.storyboard */,
 				BF30DEAC2091A69D003F1B33 /* Assets.xcassets */,
 				BF30DEAE2091A69D003F1B33 /* LaunchScreen.storyboard */,
 				BF30DEB12091A69D003F1B33 /* Info.plist */,
+				BF30DEE82091C50E003F1B33 /* cardBack.png */,
+				BF30DEE52091C50E003F1B33 /* cardBack@2x.png */,
+				BF30DEF32091C510003F1B33 /* cardBack@3x.png */,
+				BF30DEEB2091C50F003F1B33 /* cardCircle.png */,
+				BF30DEEF2091C50F003F1B33 /* cardCircle@2x.png */,
+				BF30DEF02091C50F003F1B33 /* cardCircle@3x.png */,
+				BF30DEE92091C50E003F1B33 /* cardCross.png */,
+				BF30DEED2091C50F003F1B33 /* cardCross@2x.png */,
+				BF30DEE32091C50D003F1B33 /* cardCross@3x.png */,
+				BF30DEEC2091C50F003F1B33 /* cardLines.png */,
+				BF30DEEE2091C50F003F1B33 /* cardLines@2x.png */,
+				BF30DEE42091C50E003F1B33 /* cardLines@3x.png */,
+				BF30DEF12091C510003F1B33 /* cardSquare.png */,
+				BF30DEF42091C510003F1B33 /* cardSquare@2x.png */,
+				BF30DEF22091C510003F1B33 /* cardSquare@3x.png */,
+				BF30DEE12091C50D003F1B33 /* cardStar.png */,
+				BF30DEF52091C510003F1B33 /* cardStar@2x.png */,
+				BF30DEE62091C50E003F1B33 /* cardStar@3x.png */,
+				BF30DEEA2091C50E003F1B33 /* particle.png */,
+				BF30DEE72091C50E003F1B33 /* particle@2x.png */,
+				BF30DEE22091C50D003F1B33 /* particle@3x.png */,
+				BF30DF0B2091C51A003F1B33 /* PhantomFromSpace.mp3 */,
+				BF30DF0C2091C51A003F1B33 /* README.txt */,
 			);
 			path = Project37;
 			sourceTree = "<group>";
@@ -261,9 +336,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF30DEF72091C510003F1B33 /* particle@3x.png in Resources */,
+				BF30DF022091C510003F1B33 /* cardCross@2x.png in Resources */,
+				BF30DF072091C510003F1B33 /* cardSquare@3x.png in Resources */,
+				BF30DF002091C510003F1B33 /* cardCircle.png in Resources */,
+				BF30DF082091C510003F1B33 /* cardBack@3x.png in Resources */,
+				BF30DEFD2091C510003F1B33 /* cardBack.png in Resources */,
+				BF30DF032091C510003F1B33 /* cardLines@2x.png in Resources */,
 				BF30DEB02091A69D003F1B33 /* LaunchScreen.storyboard in Resources */,
+				BF30DF0A2091C510003F1B33 /* cardStar@2x.png in Resources */,
+				BF30DF092091C510003F1B33 /* cardSquare@2x.png in Resources */,
+				BF30DEFC2091C510003F1B33 /* particle@2x.png in Resources */,
+				BF30DEFE2091C510003F1B33 /* cardCross.png in Resources */,
+				BF30DF062091C510003F1B33 /* cardSquare.png in Resources */,
+				BF30DEFB2091C510003F1B33 /* cardStar@3x.png in Resources */,
+				BF30DF012091C510003F1B33 /* cardLines.png in Resources */,
+				BF30DEF92091C510003F1B33 /* cardLines@3x.png in Resources */,
+				BF30DF0E2091C51A003F1B33 /* README.txt in Resources */,
+				BF30DEFF2091C510003F1B33 /* particle.png in Resources */,
+				BF30DF042091C510003F1B33 /* cardCircle@2x.png in Resources */,
+				BF30DEF82091C510003F1B33 /* cardCross@3x.png in Resources */,
+				BF30DF0D2091C51A003F1B33 /* PhantomFromSpace.mp3 in Resources */,
 				BF30DEAD2091A69D003F1B33 /* Assets.xcassets in Resources */,
 				BF30DEAB2091A69C003F1B33 /* Main.storyboard in Resources */,
+				BF30DEF62091C510003F1B33 /* cardStar.png in Resources */,
+				BF30DF052091C510003F1B33 /* cardCircle@3x.png in Resources */,
+				BF30DEFA2091C510003F1B33 /* cardBack@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,6 +391,8 @@
 			files = (
 				BF30DEA82091A69C003F1B33 /* ViewController.swift in Sources */,
 				BF30DEA62091A69C003F1B33 /* AppDelegate.swift in Sources */,
+				BF30DF10209290E3003F1B33 /* GradientView.swift in Sources */,
+				BF30DEE02091BCE8003F1B33 /* CardViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
