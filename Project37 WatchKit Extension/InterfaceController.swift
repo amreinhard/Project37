@@ -46,6 +46,6 @@ class InterfaceController: WKInterfaceController, WCSessionDelegate {
     }
     
     func session(_ session: WCSession, didReceiveMessage message: [String : Any]) {
-        WCInterfaceDevice().play(click)
+        WKInterfaceDevice().play(.click)
     }
 }
