@@ -12,7 +12,20 @@
         <!--Interface Controller-->
         <scene sceneID="aou-V4-d1y">
             <objects>
-                <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="Project37_WatchKit_App" customModuleProvider="target"/>
+                <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="Project37_WatchKit_App" customModuleProvider="target">
+                    <items>
+                        <label width="136" alignment="center" verticalAlignment="center" text="Please read the instructions on your phone before continuing." textAlignment="center" numberOfLines="0" id="dB6-lf-2BP"/>
+                        <button width="1" alignment="center" verticalAlignment="center" title="I'm Ready" id="EJJ-hd-vdA">
+                            <connections>
+                                <action selector="hideWelcomeText" destination="AgC-eL-Hgc" id="LFt-Np-qzI"/>
+                            </connections>
+                        </button>
+                    </items>
+                    <connections>
+                        <outlet property="hideButton" destination="EJJ-hd-vdA" id="OyP-Dt-jL7"/>
+                        <outlet property="welcomeText" destination="dB6-lf-2BP" id="Yv9-oK-9cY"/>
+                    </connections>
+                </controller>
             </objects>
             <point key="canvasLocation" x="220" y="345"/>
         </scene>
